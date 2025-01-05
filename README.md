@@ -30,15 +30,15 @@ A simple real-time chat application that allows users to chat with a bot using N
   http://localhost:3000
 
 ## Folder Structure
-.
-├── public/
-│   ├── index.html       # Frontend for the chat application
-│   ├── style.css        # Styling for the chat UI (inline in this case)
-│   └── script.js        # Client-side Socket.IO logic (embedded inline)
-├── index.js             # Backend server and bot logic
-├── package.json         # Project metadata and dependencies
-├── package-lock.json    # Lockfile for reproducible installations
-└── README.md            # Project documentation
+ -.
+-├── public/
+-│   ├── index.html       # Frontend for the chat application
+-│   ├── style.css        # Styling for the chat UI (inline in this case)
+-│   └── script.js        # Client-side Socket.IO logic (embedded inline)
+-├── index.js             # Backend server and bot logic
+-├── package.json         # Project metadata and dependencies
+-├── package-lock.json    # Lockfile for reproducible installations
+-└── README.md            # Project documentation
 
 ## Bot Interaction Guide
 Here are some example messages you can use to interact with the bot:
@@ -52,7 +52,7 @@ Here are some example messages you can use to interact with the bot:
 If the bot doesn't recognize your message, it will respond with a default reply.
 
 ## Technologies Used
-Frontend: HTML, CSS, JavaScript
-Backend: Node.js, Express
-Real-Time Communication: Socket.IO
+-Frontend: HTML, CSS, JavaScript
+-Backend: Node.js, Express
+-Real-Time Communication: Socket.IO
 
