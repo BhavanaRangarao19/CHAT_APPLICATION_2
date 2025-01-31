@@ -1,17 +1,4 @@
-# CHAT_APPLICATION_2
-
-**COMPANY** : CODTECH IT SOLUTIONS
-
-**NAME** : BELLAMKONDA BHAVANA
-
-**INTERN ID** : CT08GHY
-
-**DOMAIN** : Full Stack Web Development
-
-**BATCH DURATION** : From December 25th, 2024 To January 25th, 2025
-
-**MENTOR NAME** : NEELA SANTHOSH
-
+# CHAT_APPLICATION
 # Real-Time Chat Application
 
 A simple real-time chat application that allows users to chat with a bot using Node.js, Express, and Socket.IO. The bot provides predefined responses based on user input.
